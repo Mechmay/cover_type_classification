@@ -2,7 +2,7 @@
 ### Objective: Build a deep learning model to predict the forest cover type from different cartographic variables. 
 ### Given:    
 1. Cover Types: ['Spruce/Fir', 'Lodgepole Pine','Ponderosa Pine', 'Cottonwood/Willow','Aspen', 'Douglas-fir', 'Krummholz']    
-2. 2. A csv file ('cover_data.csv') that contains 581012 observations. Each observation has 55 columns (54 features and the last one being the class). 
+2. A csv file ('cover_data.csv') that contains 581012 observations. Each observation has 55 columns (54 features and the last one being the class). 
 
 ### Assumption(s):    
 1. There are no separate test dataset. So, one must hold-out a small percentage of given input as test data.    
